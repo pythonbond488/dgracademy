@@ -935,8 +935,9 @@ section#specialities {
 
 .swiper-slide img {
     display: block;
-    width: 100%;
+    width: 50%;
     height: 70px;
+    margin-left: 115px;
 }
 
 

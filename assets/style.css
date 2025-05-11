@@ -1142,7 +1142,8 @@ button.Our_Students_btn:hover {
 
 .slider-img1 img {
     display: block;
-    width: 100%;
+    width: 72%;
+    margin-top: 43px;
     height: 100%;
     border: 2px solid black;
 
